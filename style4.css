@@ -1,0 +1,79 @@
+
+ul {
+list-style: none;
+margin: 20
+padding-left: 0;
+}
+a {text-decoration: none;
+}
+li {margin-right: -4px;
+}
+
+.menu-main li {display: inline-block;
+  color: grey;
+  margin: 40px 0 5px;
+  text-align: center;
+  font-family: auto;
+  letter-spacing: 2px;
+  margin: 34px 30px;
+  font-size: 14px;
+  padding: 20; 
+}
+
+.menu-main li {display: inline-block;}
+.menu-main li:after {
+  content: "|";
+  color: #606060;
+  display: inline-block;
+  vertical-align:top;
+}
+	
+.menu-main li {display: inline-block;
+  margin: 40px 0 5px;
+  padding: 25px 0 5px;
+  text-align: center;
+  color: grey;
+  letter-spacing: 2px;
+  margin: 0 34px 0 30px;
+}
+
+.menu-main a {display: inline-block;
+	color: grey;
+	text-transform: uppercase;
+  margin: 0 30px;
+}
+
+.socialnetlink {display: inline-block;
+  max-width: 300px;
+  vertical-align: top;
+}
+
+h3 {
+  color: #FFA500
+}
+
+.list-city {display: inline-block;
+  max-width: 300px;
+  color: grey;
+  vertical-align: top;
+}
+
+.contacts {display: inline-block;
+  max-width: 300px;
+  vertical-align: top;
+ }
+ 
+.address {display: inline-block;
+  max-width: 300px; 
+  vertical-align: top;
+}
+
+.header {display: inline-block;
+  max-width: 300px;
+  vertical-align: top; 
+}
+
+ .news-item {display: inline-block;
+  max-width: 300px;
+  vertical-align: top;
+}
